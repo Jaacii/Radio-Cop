@@ -3,4 +3,5 @@ mqtt empfang -> mqtt verarbeitung -> ruft funktion aus servo, fahrscript, radio 
 radio -> radio schaltung
 servo -> kamera steuerung
 fahrscript -> rädersteuerung
+setup -> GPIO einstellungen
 

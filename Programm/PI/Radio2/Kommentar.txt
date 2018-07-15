@@ -1,0 +1,4 @@
+Für die Radioansteuerung haben wir uns an dem Repository "SI4703_Driver" vom User "Tomtombusiness" orientiert.
+https://github.com/Tomtombusiness/SI4703_Driver
+
+Die SI4703- Dateien haben wir von ihm übernommen. Die Example-Datei haben wir abgeändert. 
