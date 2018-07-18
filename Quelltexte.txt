@@ -1,0 +1,8 @@
+Quelltexte:
+
+Mqtt:
+https://www.hivemq.com/blog/mqtt-client-library-encyclopedia-eclipse-paho-java
+https://www.hivemq.com/blog/mqtt-client-library-paho-python
+
+Radio-Anbindung:
+https://github.com/Tomtombusiness/SI4703_Driver
