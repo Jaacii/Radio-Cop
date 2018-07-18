@@ -14,13 +14,12 @@ int main() {
 	radio.setVolume(volume);
 	radio.setChannel(876);	//NDR2
 	
-	char rdsBuffer[10] = {0};
-	radio.readRDS(rdsBuffer, 15000); // timeout
+	
 	
 	
 	//Daten aus geben für Konsole 
-	printf (Listening to station: %s %.lf\n", rdsBuffer, radio.getChannel()/10.0);
-	radio.printRegisters();
+	printf (Listening to station: NDR2);
+	
 	
 	//quittiere
 	return 0;

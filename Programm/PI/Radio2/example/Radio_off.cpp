@@ -11,18 +11,14 @@ int main() {
 	
 	//radio init
 	radio.powerOn();
-	radio.setVolume(volume);
+	radio.setVolume(volume);		
 	radio.setChannel(903);	//NDR 90,3
 	
-	char rdsBuffer[10] = {0};
-	radio.readRDS(rdsBuffer, 15000); // timeout
+	//Radio Off
+	radio.powerOff();		
 	
 	
-	//Daten aus geben für Konsole 
-	//printf (Listening to station: %s %.lf\n", rdsBuffer, radio.getChannel()/10.0);
-	//radio.printRegisters();
-	
-	//quittiere
+	//Quittiere
 	return 0;
 	
 

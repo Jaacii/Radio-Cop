@@ -2,3 +2,4 @@ Für die Radioansteuerung haben wir uns an dem Repository "SI4703_Driver" vom Use
 https://github.com/Tomtombusiness/SI4703_Driver
 
 Die SI4703- Dateien haben wir von ihm übernommen. Die Example-Datei haben wir abgeändert. 
+Hier in diesem Ordner fehlen ldier die kompilierten C++ Programme. 
